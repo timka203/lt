@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project13\project13\source.cpp(78): warning C4101: g: неиспользованная локальная переменная
+c:\users\тимур\source\repos\project13\project13\source.cpp(104): warning C4101: g: неиспользованная локальная переменная
+c:\users\тимур\source\repos\project13\project13\source.cpp(198): warning C4101: y: неиспользованная локальная переменная
+c:\users\тимур\source\repos\project13\project13\source.cpp(255): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project13.vcxproj -> C:\Users\Тимур\source\repos\Project13\Debug\Project13.exe
